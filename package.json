@@ -12,6 +12,7 @@
     "web-build": "react-app-rewired build && mkdir -p backend/web_build && cp -R build/* backend/web_build"
   },
   "dependencies": {
+    "@modules/articles": "file:./modules/articles/",
     "@modules/login": "file:./modules/login/",
     "@modules/onboarding": "file:./modules/onboarding/",
     "@modules/user-profile": "file:./modules/user-profile/",
