@@ -38,7 +38,7 @@
     "@babel/core": "^7.12.9",
     "@babel/runtime": "^7.12.5",
     "@react-native-community/eslint-config": "^2.0.0",
-    "babel-jest": "^26.6.3",
+    "babel-jest": "^27.2.4",
     "babel-plugin-import-glob-meta": "github:crowdbotics/babel-plugin-import-glob-meta",
     "eslint": "7.14.0",
     "jest": "^26.6.3",
